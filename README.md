@@ -39,8 +39,8 @@ Favio is a full-featured product catalog application that allows users to browse
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/favio.git
-cd favio
+git clone https://github.com/AbdelouahedAitessaih/Favio.git
+cd Favio
 ```
 
 2. Install PHP dependencies:
