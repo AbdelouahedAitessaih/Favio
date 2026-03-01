@@ -1,6 +1,12 @@
-# Favio
+<p align="center">
+  <img src="storage/app/public/images/favio-logo.png" alt="Favio Logo" width="200">
+</p>
 
-A modern web application for product catalog management and favorites system, built with Laravel 12.
+<h1 align="center">Favio</h1>
+
+<p align="center">
+  A modern web application for product catalog management and favorites system, built with Laravel 12.
+</p>
 
 ## 📋 Description
 
@@ -114,10 +120,6 @@ php artisan test
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## 👤 Author
-
-Developed as part of the Advanced Web Technologies course project.
-
 ---
 
-Built with ❤️ using Laravel
+<p align="center">Built with ❤️ using <a href="https://laravel.com">Laravel</a></p>
